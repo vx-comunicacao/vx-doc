@@ -1,12 +1,12 @@
 # Webpack
 
-## Inicializar o package.json
+### Inicializar o package.json
 
 ```bash
 npm init
 ```
 
-## Install
+### Install
 
 ```bash
 npm install --save-dev webpack
